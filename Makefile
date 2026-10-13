@@ -2,7 +2,8 @@
 
 ZEN_PROFILE_DIR = /home/lukas/.zen/qe8e4imy.Default (release)-1
 SCRIPTS = \
-	zen-urlbar-vim-nav.uc.mjs
+	zen-urlbar-vim-nav.uc.mjs \
+	zen-split-focus-follows-mouse.uc.mjs
 
 install:
 	@echo "Installing scripts to $(ZEN_PROFILE_DIR) ..."
